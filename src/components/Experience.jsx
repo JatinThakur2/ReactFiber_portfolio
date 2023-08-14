@@ -82,6 +82,18 @@ export const Experience = () => {
         title: "My Goals",
         subtitle: `I am passionate about creating user-centered designs that make a difference in people's lives. I am always looking for new ways to improve my skills and knowledge in UI/UX design. I am also eager to learn new technologies and tools.`,
       },
+      {
+        cameraRailDist: -1,
+        position: new Vector3(
+          curvePoints[5].x - 3,
+          curvePoints[5].y,
+          curvePoints[5].z
+        ),
+        title: "Education",
+        subtitle: `Started my journey from DAV SSS Mandi,
+and after that went to MMDU for my bachelor's in Software Development,
+after completing bachelor's i want to keep this learning journey going on`,
+      },
     ];
   }, []);
 
