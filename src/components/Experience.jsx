@@ -50,8 +50,7 @@ export const Experience = () => {
           curvePoints[1].y,
           curvePoints[1].z
         ),
-        subtitle: `Welcome to Wawatmos,
-Have a seat and enjoy the ride!`,
+        subtitle: `Welcome to My World!, Have a seat and enjoy the ride!`,
       },
       {
         cameraRailDist: 1.5,
@@ -60,9 +59,8 @@ Have a seat and enjoy the ride!`,
           curvePoints[2].y,
           curvePoints[2].z
         ),
-        title: "Services",
-        subtitle: `Do you want a drink?
-We have a wide range of beverages!`,
+        title: "About Me",
+        subtitle: ` I am a UI/UX with 2 years of experience in the IT industry. I have a B.Tech degree in Computer Science and am proficient in a variety of technologies`,
       },
       {
         cameraRailDist: -1,
@@ -71,8 +69,8 @@ We have a wide range of beverages!`,
           curvePoints[3].y,
           curvePoints[3].z
         ),
-        title: "Fear of flying?",
-        subtitle: `Our flight attendants will help you have a great journey`,
+        title: "Skills",
+        subtitle: `I am proficient in a variety of technologies HTML, CSS, JavaScript, React, Appian, Python, Java, Adobe XD, Figma, MySQL, and GitHub I am also a skilled Blender artist and have experience in leadership, time management, and teamwork.`,
       },
       {
         cameraRailDist: 1.5,
@@ -81,8 +79,8 @@ We have a wide range of beverages!`,
           curvePoints[4].y,
           curvePoints[4].z - 12
         ),
-        title: "Movies",
-        subtitle: `We provide a large selection of medias, we highly recommend you Porco Rosso during the flight`,
+        title: "My Goals",
+        subtitle: `I am passionate about creating user-centered designs that make a difference in people's lives. I am always looking for new ways to improve my skills and knowledge in UI/UX design. I am also eager to learn new technologies and tools.`,
       },
     ];
   }, []);
