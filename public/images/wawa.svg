@@ -3,6 +3,7 @@
   <defs>
     <style>
       .cls-1 {
+        fill: #fff;
         font-family: MyriadPro-Regular, 'Myriad Pro';
         font-size: 29px;
       }
