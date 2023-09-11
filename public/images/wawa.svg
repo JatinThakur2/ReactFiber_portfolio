@@ -1,28 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 27.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:none;}
-</style>
-<path id="SVGID_x5F_1_x5F_" class="st0" d="M168.1,100c0,37.6-30.5,68-68.1,68s-68.1-30.4-68.1-68S62.4,32,100,32
-	S168.1,62.4,168.1,100z"/>
-<text><textPath  xlink:href="#SVGID_x5F_1_x5F_" startOffset="89.9833%">
-<tspan  style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:31px;">THAKUR </tspan></textPath>
-</text>
-<path id="SVGID_x5F_00000174581908362334306670000015648577155424639421_x5F_" class="st0" d="M100,168.1c-37.6,0-68-30.5-68-68.1
-	s30.4-68.1,68-68.1s68,30.5,68,68.1S137.6,168.1,100,168.1z"/>
-<text><textPath  xlink:href="#SVGID_x5F_00000174581908362334306670000015648577155424639421_x5F_" startOffset="89.9833%">
-<tspan  style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:31px;">THAKUR </tspan></textPath>
-</text>
-<path id="SVGID_x5F_00000044899963544751001120000015848641038060935348_x5F_" class="st0" d="M31.9,101.1
-	c-0.6-37.6,29.4-68.5,67-69.1s68.5,29.4,69.1,66.9s-29.4,68.5-67,69.1C63.5,168.6,32.5,138.6,31.9,101.1z"/>
-<text><textPath  xlink:href="#SVGID_x5F_00000044899963544751001120000015848641038060935348_x5F_" startOffset="89.9833%">
-<tspan  style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:31px;">THAKUR </tspan></textPath>
-</text>
-<path id="SVGID_x5F_00000158751781001482245100000008811781192022117277_x5F_" class="st0" d="M100,31.9c37.6,0,68,30.5,68,68.1
-	c0,37.6-30.4,68.1-68,68.1S32,137.6,32,100C32,62.4,62.4,31.9,100,31.9z"/>
-<text><textPath  xlink:href="#SVGID_x5F_00000158751781001482245100000008811781192022117277_x5F_" startOffset="89.9833%">
-<tspan  style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:31px;">THAKUR </tspan></textPath>
-</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 184.54 185.75">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 29px;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(60.37 31.75) rotate(-21.72)"><tspan x="0" y="0">T</tspan></text>
+  <text class="cls-1" transform="translate(72.71 26.44) rotate(-8.54)"><tspan x="0" y="0">H</tspan></text>
+  <text class="cls-1" transform="translate(90.34 23.73) rotate(5.75)"><tspan x="0" y="0">A</tspan></text>
+  <text class="cls-1" transform="translate(106.96 25.39) rotate(18.94)"><tspan x="0" y="0">K</tspan></text>
+  <text class="cls-1" transform="translate(120.98 29.89) rotate(32.57)"><tspan x="0" y="0">U</tspan></text>
+  <text class="cls-1" transform="translate(135.87 39.48) rotate(46.04)"><tspan x="0" y="0">R</tspan></text>
+  <text class="cls-1" transform="translate(146 50.4) rotate(54.56)"><tspan x="0" y="0"> </tspan></text>
+  <text class="cls-1" transform="translate(152.79 60.37) rotate(68.28)"><tspan x="0" y="0">T</tspan></text>
+  <text class="cls-1" transform="translate(158.11 72.71) rotate(81.46)"><tspan x="0" y="0">H</tspan></text>
+  <text class="cls-1" transform="translate(160.82 90.34) rotate(95.75)"><tspan x="0" y="0">A</tspan></text>
+  <text class="cls-1" transform="translate(159.15 106.96) rotate(108.94)"><tspan x="0" y="0">K</tspan></text>
+  <text class="cls-1" transform="translate(154.66 120.98) rotate(122.58)"><tspan x="0" y="0">U</tspan></text>
+  <text class="cls-1" transform="translate(145.07 135.88) rotate(136.04)"><tspan x="0" y="0">R</tspan></text>
+  <text class="cls-1" transform="translate(134.14 146) rotate(144.56)"><tspan x="0" y="0"> </tspan></text>
+  <text class="cls-1" transform="translate(125.12 152.28) rotate(157.38)"><tspan x="0" y="0">T</tspan></text>
+  <text class="cls-1" transform="translate(112.87 157.79) rotate(170.56)"><tspan x="0" y="0">H</tspan></text>
+  <text class="cls-1" transform="translate(95.28 160.78) rotate(-175.15)"><tspan x="0" y="0">A</tspan></text>
+  <text class="cls-1" transform="translate(78.64 159.38) rotate(-161.96)"><tspan x="0" y="0">K</tspan></text>
+  <text class="cls-1" transform="translate(64.55 155.1) rotate(-148.33)"><tspan x="0" y="0">U</tspan></text>
+  <text class="cls-1" transform="translate(49.51 145.75) rotate(-134.86)"><tspan x="0" y="0">R</tspan></text>
+  <text class="cls-1" transform="translate(39.21 134.98) rotate(-126.35)"><tspan x="0" y="0"> </tspan></text>
+  <text class="cls-1" transform="translate(31.75 124.17) rotate(-111.72)"><tspan x="0" y="0">T</tspan></text>
+  <text class="cls-1" transform="translate(26.43 111.84) rotate(-98.54)"><tspan x="0" y="0">H</tspan></text>
+  <text class="cls-1" transform="translate(23.73 94.2) rotate(-84.25)"><tspan x="0" y="0">A</tspan></text>
+  <text class="cls-1" transform="translate(25.39 77.59) rotate(-71.06)"><tspan x="0" y="0">K</tspan></text>
+  <text class="cls-1" transform="translate(29.89 63.56) rotate(-57.43)"><tspan x="0" y="0">U</tspan></text>
+  <text class="cls-1" transform="translate(39.48 48.67) rotate(-43.96)"><tspan x="0" y="0">R</tspan></text>
+  <text class="cls-1" transform="translate(50.4 38.55) rotate(-35.44)"><tspan x="0" y="0"> </tspan></text>
 </svg>
